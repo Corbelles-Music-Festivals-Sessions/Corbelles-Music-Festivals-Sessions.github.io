@@ -44,6 +44,7 @@ DarkGrey
 DeliciousSalad
 DfinalVR
 Diggy Bones
+DigiDuncan
 DJPSYClone
 DJ Amyotte
 DJ Meowtastic
@@ -206,3 +207,5 @@ Yukonyx
 zaldar
 Zavus
 Zoofie
+~Tris~
+4Bakers
